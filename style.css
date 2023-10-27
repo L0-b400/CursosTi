@@ -1,0 +1,64 @@
+* {
+    border-radius: 25px;
+    padding: 10px;
+}
+body {
+background-image: url(/img/11272435.jpg);
+padding: 0px 180px 50px 180px ;
+
+}
+h1 {
+color: rgb(219, 70, 70);
+background-color: rgb(255, 255, 255);
+text-align: center;
+}
+p {
+color: white;
+background-color: rgb(219, 70, 70);
+}
+p.contatos {
+color: blue;
+background-color: beige;
+}
+p#endereço {
+color: black;
+background-color: antiquewhite;
+font-family: verdana;
+}
+
+img {
+border-radius: 2500px 250px 250px 250px;
+}
+.gif {
+background-color: antiquewhite;
+height: 550px;
+width: 450px;
+}
+
+a {
+    text-decoration: none;
+    text-transform: none;
+    color: azure;
+}
+#backpreto {
+    background-color: black;
+    text-align:justify;
+}
+
+._00{
+    
+    display: block;
+    text-align: center;
+    align-self: center;
+    width: 250px;
+    height: 250px;
+}
+
+.navbar{
+    color: rgb(0, 0, 0);
+    background-color: rgb(12, 12, 134);
+}
+
+a{
+    color: rgb(255, 255, 255);
+}
